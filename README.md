@@ -1,5 +1,9 @@
-> Add all the dependencies first
-   npm istall
+Getting Started
 
-> Run the project
-   npm start
+To get started, first install all the necessary dependencies.
+
+> npm install
+Run an initial webpack build
+
+> npm start
+
